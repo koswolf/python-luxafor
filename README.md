@@ -1,2 +1,3 @@
-# python-luxafor-dot
-Python module for interacting with Luxafor Dot BLE busylights
+# Python Luxafor Dot
+
+Python module for interacting with Luxafor busylights
